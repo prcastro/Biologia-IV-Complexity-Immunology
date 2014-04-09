@@ -1,0 +1,4 @@
+# Arquivos a não serem adicionados pelo Git
+
+# Livros .pdf
+*.pdf
